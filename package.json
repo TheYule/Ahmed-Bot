@@ -1,0 +1,14 @@
+{
+  "name": "ahmed-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "The Yule",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
